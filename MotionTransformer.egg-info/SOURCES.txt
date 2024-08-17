@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+MotionTransformer.egg-info/PKG-INFO
+MotionTransformer.egg-info/SOURCES.txt
+MotionTransformer.egg-info/dependency_links.txt
+MotionTransformer.egg-info/top_level.txt
+mtr/ops/attention/src/attention_api.cpp
+mtr/ops/attention/src/attention_func.cpp
+mtr/ops/attention/src/attention_func_v2.cpp
+mtr/ops/attention/src/attention_value_computation_kernel.cu
+mtr/ops/attention/src/attention_value_computation_kernel_v2.cu
+mtr/ops/attention/src/attention_weight_computation_kernel.cu
+mtr/ops/attention/src/attention_weight_computation_kernel_v2.cu
+mtr/ops/knn/src/knn.cpp
+mtr/ops/knn/src/knn_api.cpp
+mtr/ops/knn/src/knn_gpu.cu
